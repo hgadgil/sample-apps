@@ -1,0 +1,4 @@
+vendor
+rails-simple/tmp
+rails-simple/log
+Gemfile.lock
